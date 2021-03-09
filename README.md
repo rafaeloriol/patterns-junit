@@ -1,19 +1,19 @@
-### patterns-junit
+# patterns-junit
 
 ## Testing Patrones de Diseño:
 
-# Creacionales:
+Creacionales:
 Singleton
 Factory
 Builder
 Prototype
 
-# Estructurales:
+Estructurales:
 Decorator
 Adapter
 Facade
 
-#Comportamiento:
+Comportamiento:
 Iterator
 Observer
 Mediator
