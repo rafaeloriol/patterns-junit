@@ -1,6 +1,4 @@
-# patterns-junit
-
-# Testing Patrones de Diseño:
+# Testing con JUnit Patrones de Diseño:
 
 Creacionales: Singleton, Factory, Builder, Prototype
 
