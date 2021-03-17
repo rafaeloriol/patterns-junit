@@ -1,6 +1,10 @@
 package com.patterns;
 
 import com.patterns.behavioral.strategy.strategy1.PaypalStrategyTest;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Disabled;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
 import org.junit.platform.runner.JUnitPlatform;
 import org.junit.platform.suite.api.IncludeTags;
 import org.junit.platform.suite.api.SelectClasses;
@@ -19,5 +23,6 @@ import org.junit.runner.RunWith;
 @SuiteDisplayName("Suite patrones")
 // @IncludeTags("database") // También se puede usar @ExcludeTags para el caso contrario
 // @SelectClasses(PaypalStrategyTest.class)
-public class SuiteTest {
+class Suite {
+
 }
