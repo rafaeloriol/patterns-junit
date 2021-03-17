@@ -42,12 +42,5 @@ class AbstractUserTest {
         assertTrue(chat instanceof ChatMediator);
     }
 
-    @Test
-    @DisplayName("comprobando recibe el mensaje ")
-    @Disabled("FIX - mediator tests")
-    void test5() {
-        String hola = "Hola buenas!";
-        assertEquals(hola, user2);
-    }
 
 }
