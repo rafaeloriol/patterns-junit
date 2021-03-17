@@ -59,7 +59,7 @@ class BookShopTest {
        // verify(bookShop).addBook(bookArgumentCaptor.capture());
 
         //assertEquals(null, bookArgumentCaptor.getValue());
-
+        assertNull(book);
     }
 
 
@@ -98,28 +98,4 @@ class BookShopTest {
        // verify(bookShop, times(1)).addBook(new Book("1254265", "Martins", 2021 ));
     }
 
-    @Test
-    @DisplayName("iterator")
-    void iterator() {
-/*
-        // 1 Configurar mocks
-      //  when(bookShop.iterator()).thenReturn(CustomIterator iterator);
-
-        // 2 - Probar el SUT
-        assertTrue(bookShop.iterator() instanceof CustomIterator);
-
-        // 3 - Verificar datos y mock
-        verify(bookShop, times(1)).iterator();
-
- */
-    }
-
-    @Test
-    @DisplayName("iteratorHasNext")
-    public void iteratorHasNext() {
-
-
-
-
-    }
 }
