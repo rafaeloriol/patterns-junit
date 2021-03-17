@@ -78,6 +78,8 @@ class WeatherTest {
         WeatherObserver computer = new Computer();
         computer.update(type);
 
+        assertNotNull(type);
+        assertNotNull(computer);
 
 
     }
