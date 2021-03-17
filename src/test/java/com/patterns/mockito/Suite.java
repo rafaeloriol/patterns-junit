@@ -1,6 +1,6 @@
 package com.patterns.mockito;
 
-public class SuiteTest {
+public class Suite {
 
 
 }
