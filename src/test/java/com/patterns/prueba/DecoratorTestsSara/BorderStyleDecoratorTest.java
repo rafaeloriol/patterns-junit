@@ -10,13 +10,6 @@ import static org.junit.jupiter.api.Assertions.*;
 @Tag("database")
 class BorderStyleDecoratorTest {
 
-    @Test
-    void draw() {
-    }
-
-    @Test
-    void resize() {
-    }
 
     @Test
     void description() {
