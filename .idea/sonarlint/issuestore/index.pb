@@ -17,3 +17,9 @@ n
 >src/test/java/com/patterns/mockito/state1Salvi/State1Test.java,6\c\6c810f2faa0d79ea94a5d8f07c1b0f5d4cbd17bc
 b
 2src/test/java/com/patterns/state1/OnStateTest.java,4\d\4d0d1906c3d2dc27a206d3a72ac509c1fc9e2138
+|
+Lsrc/main/java/com/patterns/behavioral/iterator/iterator1/CustomIterator.java,6\9\69310da1e91c46030940bcce262da7db3222330d
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+v
+Fsrc/main/java/com/patterns/behavioral/iterator/iterator1/BookShop.java,7\4\74822ec4701689b9e6adc5ff8e5394d798f032fd
