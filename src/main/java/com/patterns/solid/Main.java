@@ -2,7 +2,7 @@ package com.patterns.solid;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InvalidCarException {
 
         String carType = "electric";
 
@@ -12,7 +12,7 @@ public class Main {
         } else if ("electric" == carType) {
             car = new ElectricCar();
         }else{
-            throw new RuntimeException("Invalid car");
+            throw new InvalidCarException("Invalid car");
         }
         car.accelerate();
     }
